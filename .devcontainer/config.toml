@@ -1,5 +1,0 @@
-[server]
-# Streamlit's file uploader is capped by this setting, not by anything in the .py file.
-# Default is 200 (MB). Raised here to 1000000 MB (~1 TB) — practically unlimited for
-# datewise route files. Increase further if needed.
-maxUploadSize = 1000000
